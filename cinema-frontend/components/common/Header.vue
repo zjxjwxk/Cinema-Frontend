@@ -2,7 +2,7 @@
     <div class="header">
         <div class="header-inner">
             <!-- <a href="" class="logo"></a> -->
-            <a href="/" class="logo" data-act="icon-click" style="font: 30px/60px 'arial'; color: #ff6637">Cinema</a>
+            <a href="/" class="title" data-act="icon-click" style="font: 30px/60px 'arial'; color: #ff6637">Cinema</a>
             <!--<div class="city-container">-->
             <!--<div class="city-selected">-->
             <!--<div class="city-name">-->
@@ -145,7 +145,7 @@
             width: 1200px;
             margin: 0 auto;
             height: 60px;
-            .logo {
+            .title {
                 float: left;
                 width: 133px;
                 height: 60px;
